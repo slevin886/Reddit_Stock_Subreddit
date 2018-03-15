@@ -5,4 +5,4 @@ Like it or not, most books (or articles/posts for that matter) are judged by the
 
 *(NOTE: 'virality' is in quotes above because I defined it loosely to be the difference between a post being below the 24th percentile (< 3 comments) and above the 75th percentile (> 14 comments))*
 
-![Words driving popularity in 'Stocks'](https://github.com/slevin886/Reddit_Stock_Subreddit/blob/master/images/Picture2.png)
+<img src="https://github.com/slevin886/Reddit_Stock_Subreddit/blob/master/images/Picture2.png" width="10" height="10">
