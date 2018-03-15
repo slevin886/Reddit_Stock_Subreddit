@@ -7,7 +7,7 @@ In that light, I looked at two Reddit subreddits [Stocks](https://www.reddit.com
 
 *(*I define 'virality'  loosely to be the difference between a post with comments below the 24th percentile (< 3 comments) and above the 75th percentile (> 14 comments))*
 
-Using Reddit's API alongside the PRAW wrapper, I web scraped every post from the 'Stocks' subreddit between September 1st 2017 and February 19 2018 (a total 5566 posts). After cleaning the data and selecting meaningful features, I used a logistic regression model to predict whether a post would go viral with 73% accuracy. 
+Using Reddit's API alongside the PRAW wrapper, I web scraped every post from the 'Stocks' subreddit between September 1st 2017 and February 19 2018 (a total 5566 posts). After cleaning the data and selecting meaningful features, I accurately classified 73% of posts as viral or not viral (from a 50% baseline). 
 
 <img src="https://github.com/slevin886/Reddit_Stock_Subreddit/blob/master/images/Picture2.png" height="500" width="500">
 
