@@ -37,3 +37,7 @@ Interestingly, there was only very weak correlation between the length of a give
   <img src="https://github.com/slevin886/Reddit_Stock_Subreddit/blob/master/images/Picture15.png" height="350" width="400">
 </p>
 It is evident from the graphic above that both very short lengths and very long lengths have viral instances and that virality is pretty evenly dispersed across lengths. 
+
+### Reddit Funny
+
+Despite pulling a much larger dataset from the funny subreddit (32,789 observations), I was unable to predict virality at a significantly different rate from the baseline. Given the complexity of humor/sarcasm/irony, it is perhaps not surprising to find this result. Performing topic analysis, some of the more prevalent viral topics included, Logan Paul (a famous YouTube personality), Dads, and Pranks. Viral posts also were slightly *less* subjective and slightly *more* polarizing than non-viral posts. Why this may or not be the case will have to wait for a future analysis. 
