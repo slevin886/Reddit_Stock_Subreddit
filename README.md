@@ -30,4 +30,10 @@ As you can see, posts submitted on Sunday and Monday had higher mean values for 
 <p align="center">
   <img src="https://github.com/slevin886/Reddit_Stock_Subreddit/blob/master/images/Picture1.png" height="350" width="400">
 </p>
-In terms of time of day, posting at night- *particularly around 8pm* - is associated with large spikes in both the average number of comments received and number of upvotes. 
+In terms of time of day, posting at night- *particularly around 8pm* -is associated with large spikes in both the average number of comments received and number of upvotes. 
+
+Interestingly, there was only very weak correlation between the length of a given title and its probabiltiy of going viral. 
+<p align="center">
+  <img src="https://github.com/slevin886/Reddit_Stock_Subreddit/blob/master/images/Picture15.png" height="350" width="400">
+</p>
+It is evident from the graphic above that both very short lengths and very long lengths have viral instances and that virality is pretty evenly dispersed across lengths. 
